@@ -1,0 +1,7 @@
+D:\GitHub\Csharp-YGG\Csharp-YGG\bin\Debug\Csharp-YGG.exe.config
+D:\GitHub\Csharp-YGG\Csharp-YGG\bin\Debug\Csharp-YGG.exe
+D:\GitHub\Csharp-YGG\Csharp-YGG\bin\Debug\Csharp-YGG.pdb
+D:\GitHub\Csharp-YGG\Csharp-YGG\obj\Debug\Csharp-YGG.csproj.AssemblyReference.cache
+D:\GitHub\Csharp-YGG\Csharp-YGG\obj\Debug\Csharp-YGG.csproj.CoreCompileInputs.cache
+D:\GitHub\Csharp-YGG\Csharp-YGG\obj\Debug\Csharp-YGG.exe
+D:\GitHub\Csharp-YGG\Csharp-YGG\obj\Debug\Csharp-YGG.pdb
